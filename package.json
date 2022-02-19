@@ -1,18 +1,10 @@
 {
-<<<<<<< HEAD
   "name": "infopelis",
-=======
-  "name": "ombd-react",
->>>>>>> e16edd695ccdb3a240839650540215bc9b65e973
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
-<<<<<<< HEAD
     "@testing-library/react": "^12.1.3",
-=======
-    "@testing-library/react": "^12.1.2",
->>>>>>> e16edd695ccdb3a240839650540215bc9b65e973
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
