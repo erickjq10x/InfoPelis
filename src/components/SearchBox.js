@@ -5,7 +5,7 @@ const SearchBox = () => {
                 <input className="searchBox-search__input" type="text"/>
             </div>
             <div className="searchBox-advanceSearch">
-                <p>advanceSearch</p>
+                <p>advance Search</p>
             </div>
         </div>
     )
